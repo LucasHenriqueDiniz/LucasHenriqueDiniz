@@ -1,6 +1,6 @@
 # ヽ(*・ω・)ﾉ	 Hi, I’m Lucas Diniz 	(￣▽￣)/
 
-### I’m currently learning JavaScript(node.js, web-dev, etc) and Python (°▽°)/ 
+### I’m currently learning EVERYTHING I CAN （´＿｀）
 
 ###	How to reach me: <(￣︶￣)>
   - lucas@daedalus-institute.com
