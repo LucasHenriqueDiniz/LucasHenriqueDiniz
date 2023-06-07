@@ -3,5 +3,5 @@
 ### I’m currently learning JavaScript(node.js, web-dev, etc) and Python (°▽°)/ 
 
 ###	How to reach me: <(￣︶￣)>
-  - lucas.hdo@hotmail.com
+  - lucas@daedalus-institute.com
   - Amaya#7744
