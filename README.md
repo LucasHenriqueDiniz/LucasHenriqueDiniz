@@ -9,10 +9,10 @@ I'm someone who enjoys drawing, programming, and design. In my free time, you'll
 <!-- Your GitHub Stats -->
 <div align="center">
 <a href="https://github.com/LucasHenriqueDiniz/github-readme-stats">
-<img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=LucasHenriqueDiniz&show_icons=true&count_private=true&show=reviews&hide=stars,issues&theme=moltack">
+<img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=LucasHenriqueDiniz&show_icons=true&count_private=true&show=reviews&hide=stars,issues&theme=moltack">
 </a>
 <a href="https://github.com/LucasHenriqueDiniz/github-readme-stats">
-<img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueDiniz&layout=compact&rank_icon=github&hide_rank=true&theme=moltack&show_icons=true">
+<img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueDiniz&layout=compact&rank_icon=github&hide_rank=true&theme=moltack&show_icons=true">
 </a>
 </div>
   &nbsp;
