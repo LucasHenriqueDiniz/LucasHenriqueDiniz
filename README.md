@@ -1,18 +1,15 @@
-<!-- Your Title -->
-# Hi there, I'm [Lucas Diniz](https://yourwebsite.com) 👋
+# Hi there, I'm [Lucas Diniz](#) 👋
 
-<!-- Your Introduction -->
 I'm someone who enjoys drawing, programming, and design. In my free time, you'll often find me playing games or diving into a good book. Welcome to my GitHub profile! Feel free to explore my repositories and get in touch.
 
 &nbsp;
 
-<!-- Your GitHub Stats -->
 <div align="center">
-<a href="https://github.com/LucasHenriqueDiniz/github-readme-stats">
-<img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=LucasHenriqueDiniz&show_icons=true&count_private=true&show=reviews&hide=stars,issues&theme=moltack">
+<a href="#">
+<img align="center" height=160 alt="Lucas Diniz Info" src="https://github-readme-stats.vercel.app/apiusername=LucasHenriqueDiniz&show_icons=true&locale=en&theme=nord&count_private=true&include_all_commits=true&rank_icon=github&hide=stars,issues&show=reviews">
 </a>
-<a href="https://github.com/LucasHenriqueDiniz/github-readme-stats">
-<img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueDiniz&layout=compact&rank_icon=github&hide_rank=true&theme=moltack&show_icons=true">
+<a href="#">
+<img align="center" alt="Lucas Diniz Info" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueDiniz&layout=compact&rank_icon=github&hide_rank=true&theme=nord&show_icons=true">
 </a>
 </div>
   &nbsp;
@@ -33,10 +30,17 @@ I'm someone who enjoys drawing, programming, and design. In my free time, you'll
     <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
     <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
   </div>
-    &nbsp;
-  <div align='center'>
-<img src='https://github-readme-stats.vercel.app/api/wakatime?LucasHenriqueDiniz=ffflabs)](https://github.com/LucasHenriqueDiniz/github-readme-stats' />
-  </div>
+  
+&nbsp; 
+
+<details>
+  <summary>Wakatime</summary>
+    <div align='center'>
+      <img src='https://github-readme-stats.vercel.app/api/wakatime?Lucas Henrique Diniz Ostroski)](https://github.com/LucasHenriqueDiniz/github-readme-stats' />
+    </div>
+</details>
+
+&nbsp;
 
 <!-- Connect with me -->
 ## Contact Me
