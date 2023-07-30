@@ -6,7 +6,7 @@ I'm someone who enjoys drawing, programming, and design. In my free time, you'll
 
 <div align="center">
 <a href="#">
-<img align="center" height=160 alt="Lucas Diniz Info" src="https://github-readme-stats.vercel.app/apiusername=LucasHenriqueDiniz&show_icons=true&locale=en&theme=nord&count_private=true&include_all_commits=true&rank_icon=github&hide=stars,issues&show=reviews">
+<img align="center" title="this data is so wrong wtf" height=160 alt="Lucas Diniz Info" src="https://github-readme-stats.vercel.app/api?username=LucasHenriqueDiniz&count_private=true&show_icons=true&locale=en&theme=nord&include_all_commits=true&rank_icon=github&hide=stars,issues&show=reviews">
 </a>
 <a href="#">
 <img align="center" alt="Lucas Diniz Info" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueDiniz&layout=compact&rank_icon=github&hide_rank=true&theme=nord&show_icons=true">
@@ -36,7 +36,9 @@ I'm someone who enjoys drawing, programming, and design. In my free time, you'll
 <details>
   <summary>Wakatime</summary>
     <div align='center'>
-      <img src='https://github-readme-stats.vercel.app/api/wakatime?Lucas Henrique Diniz Ostroski)](https://github.com/LucasHenriqueDiniz/github-readme-stats' />
+<figure>
+  <embed src="https://wakatime.com/share/@Amayacrab/60288ac2-50c6-48c3-ace1-7a6cba8f4641.svg"/>
+</figure>
     </div>
 </details>
 
