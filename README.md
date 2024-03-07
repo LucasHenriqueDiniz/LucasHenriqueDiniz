@@ -33,14 +33,8 @@ I'm someone who enjoys drawing, programming, and design. In my free time, you'll
   
 &nbsp; 
 
-<details>
-  <summary>Wakatime</summary>
-    <div align='center'>
-<figure>
-  <embed src="https://wakatime.com/share/@Amayacrab/60288ac2-50c6-48c3-ace1-7a6cba8f4641.svg"/>
-</figure>
-    </div>
-</details>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 &nbsp;
 
