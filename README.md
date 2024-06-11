@@ -7,7 +7,7 @@
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/228562465351270401)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/228562465351270401)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/228562465351270401)](https://dev.discordprofiles.me/openspotify/228562465351270401)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 &nbsp;
 
@@ -15,17 +15,9 @@
 <!---<a href="#">
  <img align="center" title="this data is so wrong wtf" height=160 alt="Lucas Diniz Info" src="https://github-readme-stats.vercel.app/api?username=LucasHenriqueDiniz&count_private=true&show_icons=true&locale=en&theme=nord&include_all_commits=true&rank_icon=github&hide=stars,issues&show=reviews">
 </a> --->
-<a href="#">
 <img align="center" alt="Lucas Diniz Info" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueDiniz&layout=compact&rank_icon=github&hide_rank=true&theme=nord&show_icons=true">
-</a>
 </div>
-  &nbsp;
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  
-&nbsp; 
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+   
 
 &nbsp;
 
