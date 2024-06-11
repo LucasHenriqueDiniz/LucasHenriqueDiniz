@@ -24,7 +24,7 @@
 &nbsp;
 
 <!-- Connect with me -->
-## Contact Me
+## Social Media
 <p align="center">
   <a href="mailto:lucas.diniz.hdo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <!-- <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=firefox" alt="Website"/></a> -->
