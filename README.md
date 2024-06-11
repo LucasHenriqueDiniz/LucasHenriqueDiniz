@@ -9,7 +9,7 @@
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/228562465351270401)](https://dev.discordprofiles.me/openspotify/228562465351270401)
 &nbsp;
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ae,au,aws,arduino,blender,c,cassandra,codepen,discord,docker,figma,git,github,ai,jquery,mongodb,mysql,nextjs,nodejs,nom,ps,postman,powershell,pr,py,react,redux,robloxstudio,supabase,svg,tailwind,ts,unreal,vercel,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ae,au,aws,arduino,blender,c,cassandra,codepen,discord,docker,figma,git,github,ai,jquery,mongodb,mysql,nextjs,nodejs,npm,ps,postman,powershell,pr,py,react,redux,robloxstudio,supabase,svg,tailwind,ts,unreal,vercel,vite)](https://skillicons.dev)
 
 &nbsp;
 
