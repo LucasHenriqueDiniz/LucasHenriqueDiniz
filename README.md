@@ -3,6 +3,10 @@
 [![Linkedin: lucas diniz](https://img.shields.io/badge/-LucasDiniz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-diniz-ostroski/)](https://www.linkedin.com/in/lucas-diniz-ostroski/)
 ![GitHub followers](https://img.shields.io/github/followers/LucasHenriqueDiniz?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=LucasHenriqueDiniz.LucasHenriqueDiniz)
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/228562465351270401?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/228562465351270401)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/228562465351270401)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/228562465351270401)](https://dev.discordprofiles.me/openspotify/228562465351270401)
 
 
 &nbsp;
@@ -16,9 +20,7 @@
 </a>
 </div>
   &nbsp;
-  <div align="center">
     [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  </div>
   
 &nbsp; 
 
@@ -30,7 +32,7 @@
 <!-- Connect with me -->
 ## Contact Me
 <p align="center">
-  <a href="mailto:lucas@daedalus-institute.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:lucas.diniz.hdo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <!-- <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=firefox" alt="Website"/></a> -->
   <a href="https://www.linkedin.com/in/lucas-diniz-ostroski/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://open.spotify.com/user/amaya-kun?si=3fedbbfc03dc404b"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
