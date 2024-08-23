@@ -13,6 +13,6 @@ jobs:
       - name: MyAnimeList readme workflow
         uses: MoonLGH/MAL-autoreadme@v2
         with:
-          username: "MoonLMAL"
+          username: "Amayacrab"
           gh_token: ${{ github.token }}
           readme_path: "MoonLGH/MoonLGH"
