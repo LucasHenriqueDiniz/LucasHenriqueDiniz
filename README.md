@@ -1,8 +1,12 @@
 # Hi there, I'm [Lucas Diniz](#) 👋
 
+<p align="center">
 [![Linkedin: lucas diniz](https://img.shields.io/badge/-LucasDiniz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-diniz-ostroski/)](https://www.linkedin.com/in/lucas-diniz-ostroski/)
 ![GitHub followers](https://img.shields.io/github/followers/LucasHenriqueDiniz?label=Follow&style=social)
+</p>
+   
 &nbsp;
+
 <p align="center">
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,ae,aws,arduino,blender,c,docker,figma,bots,ai,jquery,mongodb,mysql,nextjs,nodejs,npm,ps,pr,py,react,redux,tailwind,ts,unreal,vite&perline=9" />
