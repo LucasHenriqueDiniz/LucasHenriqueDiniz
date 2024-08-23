@@ -2,14 +2,9 @@
 
 [![Linkedin: lucas diniz](https://img.shields.io/badge/-LucasDiniz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-diniz-ostroski/)](https://www.linkedin.com/in/lucas-diniz-ostroski/)
 ![GitHub followers](https://img.shields.io/github/followers/LucasHenriqueDiniz?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=LucasHenriqueDiniz.LucasHenriqueDiniz)
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/228562465351270401?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/228562465351270401)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/228562465351270401)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/228562465351270401)](https://dev.discordprofiles.me/openspotify/228562465351270401)
 &nbsp;
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ae,aws,arduino,blender,c,cassandra,codepen,discord,docker,figma,git,github,ai,jquery,mongodb,mysql,nextjs,nodejs,npm,ps,postman,powershell,pr,py,react,redux,robloxstudio,supabase,svg,tailwind,ts,unreal,vercel,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ae,aws,arduino,blender,c,docker,figma,git,ai,jquery,mongodb,mysql,nextjs,nodejs,npm,ps,pr,py,react,redux,tailwind,ts,unreal,vite)](https://skillicons.dev)
 
 &nbsp;
 
