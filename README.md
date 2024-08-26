@@ -38,6 +38,9 @@
 # 🌸 My recent MAL activity
 
 <!-- MAL_README_ACTIVITY:start -->
+
+Hello World
+
 <!-- MAL_README_ACTIVITY:end -->
 
 
