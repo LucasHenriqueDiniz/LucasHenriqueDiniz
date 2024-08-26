@@ -39,7 +39,14 @@
 
 <!-- MAL_README_ACTIVITY:start -->
 
-Hello World
+## 🔸 MyAnimeList Profile
+
+[![Amayacrab's Profile]({Image URL from https://cdn.myanimelist.net/s/common/userimages/71362caf-07e3-44f3-9317-c65a29454360_225w?s=772b9b7c02469c0581616768aadec61e)]({Profile URL from https://myanimelist.net/profile/Amayacrab})
+
+**About Me**
+
+undefined
+
 
 <!-- MAL_README_ACTIVITY:end -->
 
