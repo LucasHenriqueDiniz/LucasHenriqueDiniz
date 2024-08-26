@@ -37,6 +37,6 @@
 
 # 🌸 My recent MAL activity
 
-<!-- MAL_ACTIVITY:start -->
+<!-- MAL_README_ACTIVITY:start -->
 
-<!-- MAL_ACTIVITY:end -->
+<!-- MAL_README_ACTIVITY:end -->
