@@ -39,4 +39,4 @@
 
 <!-- MAL_README_ACTIVITY:start -->
 
-<!-- MAL_README_ACTIVITY:end -->
+[object Object]
