@@ -38,5 +38,8 @@
 # 🌸 My recent MAL activity
 
 <!-- MAL_README_ACTIVITY:start -->
+<!-- MAL_README_ACTIVITY:end -->
 
-[object Object]
+
+
+ALGO DEPOIS DO <!-- MAL_README_ACTIVITY:end 
