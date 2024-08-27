@@ -37,32 +37,34 @@
 **Statistics**
 ### 📺 Anime Statistics
 
-  | 📅 Days Watched | 58.9 |
-      :--- | ---:
-| ⭐ Mean Score | 6.44 |
-| 👀 Watching | 8 |
-| ✅ Completed | 253 |
-| 🛑 On Hold | 8 |
-| 🔥 Dropped | 34 |
-| 📝 Plan to Watch | 56 |
-| 📚 Total Entries | 359 |
-| 🔁 Rewatched | 14 |
-| 📺 Episodes Watched | 3686 |
-  ### 📖 Manga Statistics
+    ```markdown
+    days_watched: 
+mean_score: 
+watching: 
+completed: 
+on_hold: 
+dropped: 
+plan_to_watch: 
+total_entries: 
+rewatched: 
+episodes_watched: 
+    ```
+    ### 📖 Manga Statistics
 
-  | 📅 Days Read | 54.4 |
-      :--- | ---:
-| ⭐ Mean Score | 6.66 |
-| 📖 Reading | 24 |
-| ✅ Completed | 41 |
-| 🛑 On Hold | 7 |
-| 🔥 Dropped | 48 |
-| undefined | 21 |
-| 📚 Total Entries | 141 |
-| 🔁 Reread | 4 |
-| 📚 Chapters Read | 7477 |
-| 📚 Volumes Read | 419 |
-  
+    ```markdown
+    days_read: 
+mean_score: 
+reading: 
+completed: 
+on_hold: 
+dropped: 
+plan_to_read: 
+total_entries: 
+reread: 
+chapters_read: 
+volumes_read: 
+    ```
+    
 
 
 <!-- MAL_README_ACTIVITY:end -->
