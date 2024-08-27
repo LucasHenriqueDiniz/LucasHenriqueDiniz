@@ -37,8 +37,8 @@
 **Statistics**
 ### 📺 Anime Statistics
 
-  | --- | --- |
-      | 📅 Days Watched | 58.9 |
+  | 📅 Days Watched | 58.9 |
+      | --- | --- |
 | ⭐ Mean Score | 6.44 |
 | 👀 Watching | 8 |
 | ✅ Completed | 253 |
@@ -50,8 +50,8 @@
 | 📺 Episodes Watched | 3686 |
   ### 📖 Manga Statistics
 
-  | --- | --- |
-      | 📅 Days Read | 54.4 |
+  | 📅 Days Read | 54.4 |
+      | --- | --- |
 | ⭐ Mean Score | 6.66 |
 | 📖 Reading | 24 |
 | ✅ Completed | 41 |
