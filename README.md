@@ -49,16 +49,10 @@ undefined
 
 ** Favorites **
 - Anime: 5
-<details>
-<summary>
-TEST
-</summary>
-   ![Bakemonogatari](https://cdn.myanimelist.net/images/anime/11/75274.webp?s=950c09e4c176ebfb7536962be2b1bae5)
-   ![Nodame Cantabile](https://cdn.myanimelist.net/images/anime/9/11986.webp?s=e586004bf43e678f7a93a301859adf1b)
-   ![Toradora!](https://cdn.myanimelist.net/images/anime/13/22128.webp?s=fa7d47bc3bec4cd26d628c5760228c99)
-   ![Detroit Metal City](https://cdn.myanimelist.net/images/anime/3/9853.webp?s=d573d17bf570bef4da8adde3d5139da6)
-   ![Kono Subarashii Sekai ni Shukufuku wo!](https://cdn.myanimelist.net/images/anime/1895/142748.webp?s=725fe8c638210f856406b86149af016e)
-</details>
+  
+<img src="https://cdn.myanimelist.net/images/anime/13/22128.webp?s=fa7d47bc3bec4cd26d628c5760228c99" alt="test" />
+
+<details><summary>TEST</summary>![Bakemonogatari](https://cdn.myanimelist.net/images/anime/11/75274.jpg?s=950c09e4c176ebfb7536962be2b1bae5)![Nodame Cantabile](https://cdn.myanimelist.net/images/anime/9/11986.webp?s=e586004bf43e678f7a93a301859adf1b)![Toradora!](https://cdn.myanimelist.net/images/anime/13/22128.webp?s=fa7d47bc3bec4cd26d628c5760228c99)![Detroit Metal City](https://cdn.myanimelist.net/images/anime/3/9853.webp?s=d573d17bf570bef4da8adde3d5139da6)![Kono Subarashii Sekai ni Shukufuku wo!](https://cdn.myanimelist.net/images/anime/1895/142748.webp?s=725fe8c638210f856406b86149af016e)</details>
 
 &nbsp;
 
