@@ -38,6 +38,7 @@
 ### 📺 Anime Statistics
 
   | Statistic | Value |
+  | --- | --- |
   | days_watched | 58.9 |
 | mean_score | 6.44 |
 | watching | 8 |
@@ -51,6 +52,7 @@
   ### 📖 Manga Statistics
 
   | Statistic | Value |
+  | --- | --- |
   | days_read | 54.4 |
 | mean_score | 6.66 |
 | reading | 24 |
