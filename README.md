@@ -7,8 +7,7 @@
   </a>
  </p>
 &nbsp;
-![alt text](https://fwtbbmf399.execute-api.us-east-1.amazonaws.com/Prod/svg?source=https://raw.githubusercontent.com/LucasHenriqueDiniz/LucasHenriqueDiniz/master/readme.md&name=sample.svg)
-
+![alt text](https://fwtbbmf399.execute-api.us-east-1.amazonaws.com/Prod/svg?source=https://raw.githubusercontent.com/LucasHenriqueDiniz/LucasHenriqueDiniz/main/README.md&name=sample.svg)
 <details> 
 <summary>SVG code</summary>
 
