@@ -38,31 +38,31 @@
 ### 📺 Anime Statistics
 
     ```markdown
-    days_watched: 
-mean_score: 
-watching: 
-completed: 
-on_hold: 
-dropped: 
-plan_to_watch: 
-total_entries: 
-rewatched: 
-episodes_watched: 
+    days_watched:  58.9
+mean_score:  6.44
+watching:  8
+completed:  253
+on_hold:  8
+dropped:  34
+plan_to_watch:  56
+total_entries:  359
+rewatched:  14
+episodes_watched:  3686
     ```
     ### 📖 Manga Statistics
 
     ```markdown
-    days_read: 
-mean_score: 
-reading: 
-completed: 
-on_hold: 
-dropped: 
-plan_to_read: 
-total_entries: 
-reread: 
-chapters_read: 
-volumes_read: 
+    days_read:  54.4
+mean_score:  6.66
+reading:  24
+completed:  41
+on_hold:  7
+dropped:  48
+plan_to_read:  21
+total_entries:  141
+reread:  4
+chapters_read:  7477
+volumes_read:  419
     ```
     
 
