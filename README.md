@@ -14,6 +14,11 @@
 <img align="center" alt="Lucas Diniz Info" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueDiniz&layout=compact&rank_icon=github&hide_rank=true&theme=nord&show_icons=true">
 </div>
 
+svg
+<img align="center" alt="Lucas Diniz Info" src="https://vercel-mal-app.vercel.app/api/svg">
+d3 chart
+<img align="center" alt="Lucas Diniz Info" src="https://vercel-mal-app.vercel.app/api/d3">
+
 &nbsp;
 
 ## Social Media
