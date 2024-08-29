@@ -7,8 +7,6 @@
   </a>
  </p>
 &nbsp;
-<img src="https://fwtbbmf399.execute-api.us-east-1.amazonaws.com/Prod/svg?source=https://raw.githubusercontent.com/LucasHenriqueDiniz/LucasHenriqueDiniz/main/README.md&name=samplee.svg" />
-<img src="https://fwtbbmf399.execute-api.us-east-1.amazonaws.com/Prod/svg?source=https://raw.githubusercontent.com/LucasHenriqueDiniz/LucasHenriqueDiniz/main/README.md&name=sampleee.svg" />
 
 <div align="center">
 <img align="center" alt="Lucas Diniz Info" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueDiniz&layout=compact&rank_icon=github&hide_rank=true&theme=nord&show_icons=true">
