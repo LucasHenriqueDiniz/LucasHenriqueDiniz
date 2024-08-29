@@ -15,7 +15,7 @@
 svg
 <img align="center" alt="Lucas Diniz Info" src="https://vercel-mal-app.vercel.app/api/svg">
 d3 chart
-<img align="center" alt="Lucas Diniz Info" src="https://vercel-mal-app.vercel.app/api/d3">
+<img align="center" alt="Lucas Diniz Info" src="https://vercel-mal-app.vercel.app/api/chart/horizontal-bar?data=[%7B%22number%22:52,%22label%22:%22ABC%22%7D,%7B%22number%22:555,%22label%22:%22BCDE%22%7D,%7B%22number%22:1,%22label%22:%22C%22%7D]">
 
 &nbsp;
 
