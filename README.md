@@ -12,10 +12,16 @@
 <img align="center" alt="Lucas Diniz Info" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueDiniz&layout=compact&rank_icon=github&hide_rank=true&theme=nord&show_icons=true">
 </div>
 
-svg
-<img align="center" alt="Lucas Diniz Info" src="https://vercel-mal-app.vercel.app/api/svg">
-d3 chart
+<div align="center">
+mal-static-profile
+<img align="center" alt="Lucas Diniz Info" src="https://vercel-mal-app.vercel.app/api/mal-profile">
+</div>
+<div align="center">
+   d3 chart
 <img align="center" alt="Lucas Diniz Info" src="https://vercel-mal-app.vercel.app/api/chart/horizontal-bar?data=[%7B%22number%22:52,%22label%22:%22ABC%22%7D,%7B%22number%22:555,%22label%22:%22BCDE%22%7D,%7B%22number%22:1,%22label%22:%22C%22%7D]">
+</div>   
+   mal-fetch-profile
+<img align="center" alt="Lucas Diniz Info" src="https://vercel-mal-app.vercel.app/api/mal-profile-fetch">
 
 &nbsp;
 
