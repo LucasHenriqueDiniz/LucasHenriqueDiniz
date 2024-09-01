@@ -12,7 +12,7 @@
 <img align="center" alt="Lucas Diniz Info" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueDiniz&layout=compact&rank_icon=github&hide_rank=true&theme=nord&show_icons=true">
 </div>
 
-<div align="center">
+<div align="center" height="540px">
 mal-static-profile
 <img align="center" alt="Lucas Diniz Info" src="https://vercel-mal-app.vercel.app/api/mal-profile">
 </div>
