@@ -11,17 +11,15 @@
 <div align="center">
 <img align="center" alt="Lucas Diniz Info" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueDiniz&layout=compact&rank_icon=github&hide_rank=true&theme=nord&show_icons=true">
 </div>
-
-<div align="center" height="540px">
-mal-static-profile
-[<img align="center" alt="Lucas Diniz Info" src="https://gist.githubusercontent.com/LucasHenriqueDiniz/dedf0b5ee7991afaf0b76d4ab4949002/raw/8ac0a2715b30f1ebd99b53aa3d9e37eabc9fcedd/test.svg">](#)
-</div>
+&nbsp;
 <div align="center">
    d3 chart
-<img align="center" alt="Lucas Diniz Info" src="https://vercel-mal-app.vercel.app/api/chart/horizontal-bar?data=[%7B%22number%22:52,%22label%22:%22ABC%22%7D,%7B%22number%22:555,%22label%22:%22BCDE%22%7D,%7B%22number%22:1,%22label%22:%22C%22%7D]">
-</div>   
-   mal-fetch-profile
-<img align="center" alt="Lucas Diniz Info" src="https://vercel-mal-app.vercel.app/api/mal-profile-fetch">
+<img align="center" alt="🦀" src="https://vercel-mal-app.vercel.app/api/chart/horizontal-bar?data=[%7B%22number%22:52,%22label%22:%22ABC%22%7D,%7B%22number%22:555,%22label%22:%22BCDE%22%7D,%7B%22number%22:1,%22label%22:%22C%22%7D]">
+</div>
+
+&nbsp;
+
+<img align="center" alt="🦀" src="https://gist.githubusercontent.com/LucasHenriqueDiniz/8aacc3d1ccca110d8358e35517d8fe40/raw/223a5cb7dd6f122153f4cbf0d4b6b64902a01ffb/test.svg">
 
 &nbsp;
 
