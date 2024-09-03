@@ -19,7 +19,7 @@
 
 &nbsp;
 
-<img align="center" alt="🦀" src="https://gist.githubusercontent.com/LucasHenriqueDiniz/8aacc3d1ccca110d8358e35517d8fe40/raw/223a5cb7dd6f122153f4cbf0d4b6b64902a01ffb/test.svg">
+<img align="center" alt="🦀" src="https://gist.githubusercontent.com/LucasHenriqueDiniz/8aacc3d1ccca110d8358e35517d8fe40/raw/test.svg">
 
 &nbsp;
 
