@@ -7,8 +7,7 @@
  </p>
 &nbsp;
 <div align="center">
-   d3 chart
-<img align="center" alt="🦀" src="https://vercel-mal-app.vercel.app/api/chart/horizontal-bar?data=[%7B%22number%22:52,%22label%22:%22ABC%22%7D,%7B%22number%22:555,%22label%22:%22BCDE%22%7D,%7B%22number%22:1,%22label%22:%22C%22%7D]">
+<img align="center" alt="Lucas Diniz Info" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueDiniz&layout=compact&rank_icon=github&hide_rank=true&theme=nord&show_icons=true">
 </div>
 &nbsp;
 <img align="center" alt="🦀" src="https://gist.githubusercontent.com/LucasHenriqueDiniz/8aacc3d1ccca110d8358e35517d8fe40/raw/test.svg">
