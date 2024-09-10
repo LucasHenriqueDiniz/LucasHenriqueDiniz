@@ -10,7 +10,7 @@
 <img align="center" alt="Lucas Diniz Info" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueDiniz&layout=compact&rank_icon=github&hide_rank=true&theme=nord&show_icons=true">
 </div>
 &nbsp;
-<img align="center" alt="🦀" src="https://gist.githubusercontent.com/LucasHenriqueDiniz/8aacc3d1ccca110d8358e35517d8fe40/raw/test.svg">
+<img align="center" alt="🦀" src="https://gist.githubusercontent.com/LucasHenriqueDiniz/8aacc3d1ccca110d8358e35517d8fe40/raw/MyAnimeList.svg">
 &nbsp;
 ## Social Media
 <p align="center">
