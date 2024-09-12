@@ -7,10 +7,10 @@
 </p>
 
 &nbsp;
-<p align="center">
-   <img alt="🦀" src="https://gist.githubusercontent.com/LucasHenriqueDiniz/8aacc3d1ccca110d8358e35517d8fe40/raw/MyAnimeList.svg" align="right" width="45%"></img>
+<p align="right" width="45%">
+   <img alt="🦀" src="https://gist.githubusercontent.com/LucasHenriqueDiniz/8aacc3d1ccca110d8358e35517d8fe40/raw/MyAnimeList.svg" ></img>
    </p>
-   <p align="center">
-   <img alt="🦀" src="https://gist.githubusercontent.com/LucasHenriqueDiniz/8aacc3d1ccca110d8358e35517d8fe40/raw/LastFM.svg" align="left" width="45%"></img>
+   <p align="left" width="45%">
+   <img alt="🦀" src="https://gist.githubusercontent.com/LucasHenriqueDiniz/8aacc3d1ccca110d8358e35517d8fe40/raw/LastFM.svg" ></img>
 </p>
 &nbsp;
