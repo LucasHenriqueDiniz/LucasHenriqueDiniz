@@ -4,7 +4,9 @@
    <img alt="Lucas Diniz Info" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueDiniz&layout=compact&rank_icon=github&hide_rank=true&theme=nord&show_icons=true" align="left"></img>
 </p>
 &nbsp;
+<p>
     ---<br><br>
+</p>
 &nbsp;
 <p float="left" align="middle">
    <img  align="top" alt="🦀" src="https://gist.githubusercontent.com/LucasHenriqueDiniz/8aacc3d1ccca110d8358e35517d8fe40/raw/MyAnimeList.svg" width="49%"></img>
