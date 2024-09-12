@@ -15,8 +15,8 @@
 
 &nbsp;
 
-## Social Media
 <p align="center">
+## Social Media
   <a href="mailto:lucas.diniz.hdo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/lucas-diniz-ostroski/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.last.fm/pt/user/Amayacrab"><img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" alt="Last.fm"/></a>
