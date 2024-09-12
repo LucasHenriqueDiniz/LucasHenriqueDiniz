@@ -8,7 +8,7 @@
 
 &nbsp;
 
-<div style="display: flex; justify-content: space-around;">
+<div align="center">
     <img alt="🦀" src="https://gist.githubusercontent.com/LucasHenriqueDiniz/8aacc3d1ccca110d8358e35517d8fe40/raw/MyAnimeList.svg" width="45%"></img>
     <img alt="🦀" src="https://gist.githubusercontent.com/LucasHenriqueDiniz/8aacc3d1ccca110d8358e35517d8fe40/raw/LastFM.svg" width="45%"></img>
 </div>
