@@ -7,10 +7,10 @@
 </p>
  
 &nbsp;
-
+<p align="center">
 <img align="center" alt="🦀" src="https://gist.githubusercontent.com/LucasHenriqueDiniz/8aacc3d1ccca110d8358e35517d8fe40/raw/MyAnimeList.svg" align="left"/>
 <img align="center" alt="🦀" src="https://gist.githubusercontent.com/LucasHenriqueDiniz/8aacc3d1ccca110d8358e35517d8fe40/raw/LastFM.svg" align="right"/>
-
+</p>
 &nbsp;
 
 ## Social Media
