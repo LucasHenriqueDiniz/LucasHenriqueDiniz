@@ -29,7 +29,7 @@ jobs:
           PLUGIN_GITHUB: true
           PLUGIN_GITHUB_HIDE_HEADER: true
           PLUGIN_GITHUB_USERNAME: LucasHenriqueDiniz
-          PLUGIN_GITHUB_SECTIONS: profile, favorite_languages
+          PLUGIN_GITHUB_SECTIONS: favorite_languages
 
       - name: 🦀 MyAnimeList 🦀
         uses: LucasHenriqueDiniz/WeebProfile@main
@@ -44,6 +44,6 @@ jobs:
           PLUGIN_MAL: true
           PLUGIN_MAL_HIDE_HEADER: true
           PLUGIN_MAL_USERNAME: Amayacrab
-          PLUGIN_MAL_SECTIONS: stats_simple, character_simple_favorites, anime_favorites
+          PLUGIN_MAL_SECTIONS: statistics_simple, character_simple_favorites, anime_favorites
           PLUGIN_MAL_ANIME_FAVORITES_MAX: 3
           PLUGIN_MAL_CHARACTER_FAVORITES_MAX: 5
