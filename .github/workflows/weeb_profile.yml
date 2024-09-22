@@ -7,8 +7,7 @@ on:
 jobs:
   weeb_profile:
     runs-on: ubuntu-latest
-    environment: 
-      name: WEEBPROFILE
+    environment: WEEBPROFILE
     steps:
       - name: 🦀 LastFM & Github 🦀
         uses: LucasHenriqueDiniz/WeebProfile@main
