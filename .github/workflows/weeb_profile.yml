@@ -13,7 +13,7 @@ jobs:
         with:
           FILENAME: LastFM.svg
           GIST_ID: ${{ secrets.GIST_ID }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.WEEB_GH_TOKEN }}
           STORAGE_METHOD: gist
           STYLE: default
           SIZE: half
@@ -37,7 +37,7 @@ jobs:
         with:
           FILENAME: MyAnimeList.svg
           GIST_ID: ${{ secrets.GIST_ID }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.WEEB_GH_TOKEN }}
           STORAGE_METHOD: gist
           SIZE: half
           STYLE: default
