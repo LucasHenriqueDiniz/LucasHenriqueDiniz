@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 🦀 LastFM & Github 🦀
-        uses: LucasHenriqueDiniz/WeebProfile@main
+        uses: LucasHenriqueDiniz/WeebProfile-old@main
         with:
           FILENAME: LastFM.svg
           GIST_ID: ${{ secrets.GIST_ID }}
