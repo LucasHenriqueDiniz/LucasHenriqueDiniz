@@ -33,7 +33,7 @@ jobs:
           PLUGIN_GITHUB_FAVORITE_LANGUAGES_TITLE: "<qnt> Languages"
 
       - name: 🦀 MyAnimeList 🦀
-        uses: LucasHenriqueDiniz/WeebProfile@main
+        uses: LucasHenriqueDiniz/WeebProfile-old@main
         with:
           FILENAME: MyAnimeList.svg
           GIST_ID: ${{ secrets.GIST_ID }}
