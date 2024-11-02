@@ -21,7 +21,7 @@ jobs:
           PLUGIN_LASTFM: true
           PLUGIN_LASTFM_HIDE_HEADER: true
           PLUGIN_LASTFM_USERNAME: Amayacrab
-          PLUGIN_LASTFM_SECTIONS: recent_tracks, top_artists_grid, top_albums_grid
+          PLUGIN_LASTFM_SECTIONS: recent_tracks, top_artists_grid
           PLUGIN_LASTFM_RECENTTRACKS_MAX: 5
           PLUGIN_LASTFM_TOPARTISTS_MAX: 4
           PLUGIN_LASTFM_TOPALBUMS_MAX: 4
@@ -45,7 +45,7 @@ jobs:
           PLUGIN_MAL: true
           PLUGIN_MAL_HIDE_HEADER: true
           PLUGIN_MAL_USERNAME: Amayacrab
-          PLUGIN_MAL_SECTIONS: statistics_simple, anime_bar, character_simple_favorites, anime_favorites
+          PLUGIN_MAL_SECTIONS: statistics_simple, character_simple_favorites, anime_favorites
           PLUGIN_MAL_ANIME_FAVORITES_MAX: 3
           PLUGIN_MAL_CHARACTER_FAVORITES_MAX: 5
           PLUGIN_MAL_CHARACTER_FAVORITES_TITLE: "Waifus"
