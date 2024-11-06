@@ -31,7 +31,6 @@ jobs:
           PLUGIN_GITHUB_USERNAME: LucasHenriqueDiniz
           PLUGIN_GITHUB_SECTIONS: favorite_languages
           PLUGIN_GITHUB_FAVORITE_LANGUAGES_TITLE: "<qnt> Languages"
-          PLUGIN_GITHUB_REPOSITORY_NAME: "test"
           
       - name: 🦀 MyAnimeList 🦀
         uses: LucasHenriqueDiniz/WeebProfile-old@main
