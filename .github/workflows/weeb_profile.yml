@@ -36,8 +36,7 @@ jobs:
           
           PLUGIN_MYANIMELIST: true
           PLUGIN_MYANIMELIST_USERNAME: Amayacrab
-          PLUGIN_MYANIMELIST_SECTIONS: character_favorites, anime_favorites 
+          PLUGIN_MYANIMELIST_SECTIONS: character_simple_favorites, anime_favorites 
           PLUGIN_MYANIMELIST_ANIME_FAVORITES_MAX: 3
           PLUGIN_MYANIMELIST_CHARACTER_FAVORITES_MAX: 5
           PLUGIN_MYANIMELIST_CHARACTER_FAVORITES_TITLE: "Waifus"
-          PLUGIN_MYANIMELIST_ANIME_FAVORITES_NO_SUMMARY: true
