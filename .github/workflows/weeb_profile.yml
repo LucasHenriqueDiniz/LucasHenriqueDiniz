@@ -1,9 +1,8 @@
 name: WeebProfile
 on:
-  # 🦀 Schedule
   schedule: [{ cron: "0 0 * * *" }]
-  # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
+
 jobs:
   weeb_profile:
     runs-on: ubuntu-latest
@@ -18,22 +17,22 @@ jobs:
           STYLE: default
           SIZE: half
 
+          # LastFM Plugin corrections
           PLUGIN_LASTFM: true
-          PLUGIN_LASTFM_HIDE_HEADER: true
           PLUGIN_LASTFM_USERNAME: Amayacrab
           PLUGIN_LASTFM_SECTIONS: recent_tracks, top_artists_grid
-          PLUGIN_LASTFM_RECENTTRACKS_MAX: 5
-          PLUGIN_LASTFM_TOPARTISTS_MAX: 4
-          PLUGIN_LASTFM_TOPALBUMS_MAX: 4
+          PLUGIN_LASTFM_RECENT_TRACKS_MAX: 5  # Changed from RECENTTRACKS_MAX
+          PLUGIN_LASTFM_TOP_ARTISTS_MAX: 4    # Changed from TOPARTISTS_MAX
+          PLUGIN_LASTFM_TOP_ALBUMS_MAX: 4     # Changed from TOPALBUMS_MAX
 
+          # Github Plugin corrections
           PLUGIN_GITHUB: true
-          PLUGIN_GITHUB_HIDE_HEADER: true
           PLUGIN_GITHUB_USERNAME: LucasHenriqueDiniz
           PLUGIN_GITHUB_SECTIONS: favorite_languages
           PLUGIN_GITHUB_FAVORITE_LANGUAGES_TITLE: "<qnt> Languages"
           
       - name: 🦀 MyAnimeList 🦀
-        uses: LucasHenriqueDiniz/WeebProfile-old@main
+        uses: LucasHenriqueDiniz/WeebProfile@main  # Note: Changed from WeebProfile-old
         with:
           FILENAME: MyAnimeList.svg
           GIST_ID: ${{ secrets.GIST_ID }}
@@ -42,11 +41,11 @@ jobs:
           SIZE: half
           STYLE: default
 
-          PLUGIN_MAL: true
-          PLUGIN_MAL_HIDE_HEADER: true
-          PLUGIN_MAL_USERNAME: Amayacrab
-          PLUGIN_MAL_SECTIONS: statistics_simple, character_simple_favorites, anime_favorites
-          PLUGIN_MAL_ANIME_FAVORITES_MAX: 3
-          PLUGIN_MAL_CHARACTER_FAVORITES_MAX: 5
-          PLUGIN_MAL_CHARACTER_FAVORITES_TITLE: "Waifus"
-          PLUGIN_MAL_STATISTICS_SIMPLE_TITLE: "MAL Stats"
+          # MyAnimeList Plugin corrections
+          PLUGIN_MYANIMELIST: true             # Changed from PLUGIN_MAL
+          PLUGIN_MYANIMELIST_USERNAME: Amayacrab
+          PLUGIN_MYANIMELIST_SECTIONS: statistics_simple, character_favorites, anime_favorites  # Changed section names
+          PLUGIN_MYANIMELIST_ANIME_FAVORITES_MAX: 3
+          PLUGIN_MYANIMELIST_CHARACTER_FAVORITES_MAX: 5
+          PLUGIN_MYANIMELIST_CHARACTER_FAVORITES_TITLE: "Waifus"
+          PLUGIN_MYANIMELIST_STATISTICS_SIMPLE_TITLE: "MAL Stats"
