@@ -11,7 +11,7 @@ jobs:
         uses: LucasHenriqueDiniz/WeebProfile@main
         with:
           FILENAME: LastFM.svg
-          GIST_ID: ${{ secrets.GIST_ID }}
+          GIST_ID: 8aacc3d1ccca110d8358e35517d8fe40
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           STORAGE_METHOD: gist
 
