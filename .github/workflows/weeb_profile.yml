@@ -6,6 +6,8 @@ on:
 jobs:
   weeb_profile:
     runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
     steps:
       - name: 🦀 LastFM & Github 🦀
         uses: LucasHenriqueDiniz/WeebProfile@main
