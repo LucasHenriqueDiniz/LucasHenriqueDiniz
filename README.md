@@ -7,21 +7,4 @@
 
 <sub>The above images are generated using [LucasHenriqueDiniz/WeebProfile](https://github.com/LucasHenriqueDiniz/WeebProfile)</sub>
 
-![Github](https://weeb-profile-web-client.vercel.app/api/svg/github)
-![LastFM](https://weeb-profile-web-client.vercel.app/api/svg/lastfm)
-![MyAnimeList](https://weeb-profile-web-client.vercel.app/api/svg/myanimelist)
-
-<p float="left" align="center">
-  <img
-    align="top"
-    alt="MyAnimeList"
-    src="https://weeb-profile-web-client.vercel.app/api/svg/myanimelist"
-    width="49%"
-  />
-  <img
-    align="top"
-    alt="Github"
-    src="https://weeb-profile-web-client.vercel.app/api/svg/github"
-    width="49%"
-  />
-</p>
+![Duolingo Stats](https://fsqldsfsbnvmvzgiujye.supabase.co/storage/v1/object/public/svgs/7a8b3ee7-e9bb-400b-aa75-b449dc5d6d24.svg)
