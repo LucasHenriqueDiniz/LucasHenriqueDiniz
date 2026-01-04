@@ -1,4 +1,14 @@
 # Hi there, I'm [Lucas Diniz](#) 🦀
-![Lyfta Myanimelist Lastfm Stats](https://fsqldsfsbnvmvzgiujye.supabase.co/storage/v1/object/public/svgs/61e4f88d-da95-498c-8f83-6a59128d1143.svg)
-![Github Stats](https://fsqldsfsbnvmvzgiujye.supabase.co/storage/v1/object/public/svgs/3488b5d0-19e3-4185-a1b2-d87a098cca72.svg)
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://fsqldsfsbnvmvzgiujye.supabase.co/storage/v1/object/public/svgs/61e4f88d-da95-498c-8f83-6a59128d1143.svg" />
+    </td>
+    <td valign="top">
+      <img src="https://fsqldsfsbnvmvzgiujye.supabase.co/storage/v1/object/public/svgs/3488b5d0-19e3-4185-a1b2-d87a098cca72.svg" />
+    </td>
+  </tr>
+</table>
+
+
 <sub>The above images are generated using [LucasHenriqueDiniz/WeebProfile](https://github.com/LucasHenriqueDiniz/WeebProfile)</sub>
