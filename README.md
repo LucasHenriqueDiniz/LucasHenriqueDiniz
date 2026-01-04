@@ -1,7 +1,7 @@
 # Hi there, I'm [Lucas Diniz](#) 🦀
 <table>
   <tr>
-    <td valign="top">
+    <td valign="top" border="0" cellspacing="0" cellpadding="0">
       <img src="https://fsqldsfsbnvmvzgiujye.supabase.co/storage/v1/object/public/svgs/61e4f88d-da95-498c-8f83-6a59128d1143.svg" />
     </td>
     <td valign="top">
