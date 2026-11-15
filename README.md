@@ -8,6 +8,10 @@ Temporary tests: what GitHub lets an image in a README do. Files in [`lab/`](lab
 
 <img src="lab/12-links-inside.svg" alt="links inside the svg">
 
+**1a'.** The same file from an external host (camo). Click it: GitHub opens the SVG in a new tab, where the buttons work:
+
+<img src="https://cdn.jsdelivr.net/gh/LucasHenriqueDiniz/LucasHenriqueDiniz@main/lab/12-links-inside.svg" alt="links inside the svg via camo">
+
 **1b.** Two files glued together, each with its own `<a>` and `title` (fixed width of 415px each):
 
 <p><a href="https://weebprofile-dashboard.pages.dev" title="WeebProfile"><img src="lab/13-split-left.svg" width="415" alt="WeebProfile"></a><a href="https://heartopia.guide" title="Heartopia Guide"><img src="lab/13-split-right.svg" width="415" alt="Heartopia Guide"></a></p>
