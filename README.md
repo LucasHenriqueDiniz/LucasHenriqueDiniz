@@ -48,6 +48,30 @@ Temporary tests: what GitHub lets an image in a README do. Files in [`lab/`](lab
 <img src="https://cdn.jsdelivr.net/gh/LucasHenriqueDiniz/LucasHenriqueDiniz@main/lab/02-smil.svg" alt="smil via camo">
 <img src="https://cdn.jsdelivr.net/gh/LucasHenriqueDiniz/LucasHenriqueDiniz@main/lab/03-typing.svg" alt="typing via camo">
 
+## Embed snippet (dashboard)
+
+Snippets as the dashboard now copies them, pointing at two real half cards.
+
+**4a.** Two halves, the "Side by side" snippet (`width="50%"`, tags glued):
+
+<p align="center" id="lab-4a"><img align="top" width="50%" alt="MyAnimeList Stats" src="https://weebprofile-dashboard.pages.dev/svg/c69bcae6-e43f-4eea-8e6f-77e82c80553f.svg" /><img align="top" width="50%" alt="GitHub Stats" src="https://weebprofile-dashboard.pages.dev/svg/ea02df1e-d680-4150-9d58-0c8324850fea.svg" /></p>
+
+**4b.** Three halves, same snippet (two on the first row, one on the second):
+
+<p align="center" id="lab-4b"><img align="top" width="50%" alt="MyAnimeList Stats" src="https://weebprofile-dashboard.pages.dev/svg/c69bcae6-e43f-4eea-8e6f-77e82c80553f.svg" /><img align="top" width="50%" alt="GitHub Stats" src="https://weebprofile-dashboard.pages.dev/svg/ea02df1e-d680-4150-9d58-0c8324850fea.svg" /><img align="top" width="50%" alt="MyAnimeList Stats" src="https://weebprofile-dashboard.pages.dev/svg/c69bcae6-e43f-4eea-8e6f-77e82c80553f.svg" /></p>
+
+**4c.** One half alone, the per-card snippet (no `width`):
+
+<p align="center"><img align="top" alt="MyAnimeList Stats" src="https://weebprofile-dashboard.pages.dev/svg/c69bcae6-e43f-4eea-8e6f-77e82c80553f.svg" /></p>
+
+**4d.** Baseline, one half alone with `width="50%"`:
+
+<p align="center"><img align="top" width="50%" alt="MyAnimeList Stats" src="https://weebprofile-dashboard.pages.dev/svg/c69bcae6-e43f-4eea-8e6f-77e82c80553f.svg" /></p>
+
+**4e.** Baseline, two halves glued without `width` (what combining the old snippets gave):
+
+<p align="center"><img align="top" alt="MyAnimeList Stats" src="https://weebprofile-dashboard.pages.dev/svg/c69bcae6-e43f-4eea-8e6f-77e82c80553f.svg" /><img align="top" alt="GitHub Stats" src="https://weebprofile-dashboard.pages.dev/svg/ea02df1e-d680-4150-9d58-0c8324850fea.svg" /></p>
+
 ---
 
 <p align="center">
