@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="415" height="110" viewBox="0 0 415 110">
+<style>
+  .t { font: 600 13px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #e6edf3 }
+  .s { font: 400 11px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8b949e }
+  .m { font: 400 14px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #3fb950 }
+  
+  .pulse { transform-origin: 50px 68px; animation: pulse 1.2s ease-in-out infinite }
+  .spin  { transform-origin: 116px 68px; animation: spin 2s linear infinite }
+  .slide { animation: slide 1.6s ease-in-out infinite alternate }
+  .hue   { animation: hue 3s linear infinite }
+  .blink { animation: blink 1s steps(1) infinite }
+  @keyframes pulse { 50% { transform: scale(.6) } }
+  @keyframes spin  { to { transform: rotate(360deg) } }
+  @keyframes slide { to { transform: translateX(80px) } }
+  @keyframes hue   { 0% { fill: #f78166 } 33% { fill: #3fb950 } 66% { fill: #58a6ff } 100% { fill: #f78166 } }
+  @keyframes blink { 50% { opacity: 0 } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important } }
+</style>
+<rect x="0.5" y="0.5" width="414" height="109" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="14" y="22" class="t">01 · CSS @keyframes</text>
+
+<g class="pulse"><circle cx="50" cy="68" r="16" fill="#f78166"/></g>
+<rect class="spin" x="100" y="52" width="32" height="32" rx="4" fill="#58a6ff"/>
+<rect x="160" y="62" width="120" height="12" rx="6" fill="#30363d"/>
+<rect class="slide" x="160" y="62" width="40" height="12" rx="6" fill="#3fb950"/>
+<circle class="hue" cx="320" cy="68" r="16"/>
+<text class="blink s" x="350" y="72">blink</text>
+</svg>

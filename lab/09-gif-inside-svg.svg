@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="415" height="100" viewBox="0 0 415 100">
+<style>
+  .t { font: 600 13px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #e6edf3 }
+  .s { font: 400 11px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8b949e }
+  .m { font: 400 14px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #3fb950 }
+  
+</style>
+<rect x="0.5" y="0.5" width="414" height="99" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="14" y="22" class="t">09 · GIF animado embutido (data URI) dentro do SVG</text>
+
+<image x="14" y="32" width="60" height="60" href="data:image/gif;base64,R0lGODlhPAA8APAAAAAAAPeBZiH/C05FVFNDQVBFMi4wAwEAAAAh+QQBKAAAACwAAAAAPAA8AAACl4SPqcvtD6OctNqLs968+w+G4vgE5hmQFcq2qtPG7ovI9qzeOh7uPir6CU2godFjTHKSzA1TmXk2MVKopTpdYY/aLXfitUrC3zFZSDmXS2q0ue0Dw+Pv+U1uv9fzsTS/7/fH0iV4QliYcvh3gUjEWBgFGcnntFhphzRX1BZ0RkJGg0VTIzZ64GYKw5PK2ur6ChsrO0tbUQAAIfkEASgAAAAsAAAAADwAPACAAAAAP7lQAoqEj6nL7Q+jnLTai7PevPsPhuJIluYUpOrKtu7LXvBM03KN58Gt9y/vC6qAwiCx2Dsic8plremcQaM/CzVpvTKz2ie3K/2Cq5WxTWyOodPDNXvnZk/N83EdfO/mtftrn/oXFeg0uFSIdFiUKLRoFJfW6BOJVfbWMqmDuXXC2en5CRoqOkpaanoqUQAAIfkEASgAAAAsAAAAADwAPACAAAAAWKb/AqOEj6nL7Q+jnLTai7PevPsPBeBoiOQXpKeXmqvWqm8Wu3NVyzeV23vY8/0YwdbwUdQdFUnjktkULqPOZ4kq/WGr02125uVqw98TWQw+l0FqtLm97sDd7HkcZleO8noUvy/3d4cjCIhXWFdoaKFYE9i4OAHpeDg5SGQZQ5NJB8TZ6fCpSSgKulA6KoFKGbGaiuT62hAre0pba5Wru8vb6/sLnFAAADs=" xlink:href="data:image/gif;base64,R0lGODlhPAA8APAAAAAAAPeBZiH/C05FVFNDQVBFMi4wAwEAAAAh+QQBKAAAACwAAAAAPAA8AAACl4SPqcvtD6OctNqLs968+w+G4vgE5hmQFcq2qtPG7ovI9qzeOh7uPir6CU2godFjTHKSzA1TmXk2MVKopTpdYY/aLXfitUrC3zFZSDmXS2q0ue0Dw+Pv+U1uv9fzsTS/7/fH0iV4QliYcvh3gUjEWBgFGcnntFhphzRX1BZ0RkJGg0VTIzZ64GYKw5PK2ur6ChsrO0tbUQAAIfkEASgAAAAsAAAAADwAPACAAAAAP7lQAoqEj6nL7Q+jnLTai7PevPsPhuJIluYUpOrKtu7LXvBM03KN58Gt9y/vC6qAwiCx2Dsic8plremcQaM/CzVpvTKz2ie3K/2Cq5WxTWyOodPDNXvnZk/N83EdfO/mtftrn/oXFeg0uFSIdFiUKLRoFJfW6BOJVfbWMqmDuXXC2en5CRoqOkpaanoqUQAAIfkEASgAAAAsAAAAADwAPACAAAAAWKb/AqOEj6nL7Q+jnLTai7PevPsPBeBoiOQXpKeXmqvWqm8Wu3NVyzeV23vY8/0YwdbwUdQdFUnjktkULqPOZ4kq/WGr02125uVqw98TWQw+l0FqtLm97sDd7HkcZleO8noUvy/3d4cjCIhXWFdoaKFYE9i4OAHpeDg5SGQZQ5NJB8TZ6fCpSSgKulA6KoFKGbGaiuT62hAre0pba5Wru8vb6/sLnFAAADs="/>
+<text x="90" y="66" class="s">se a forma muda, o GIF anima dentro do SVG</text>
+</svg>

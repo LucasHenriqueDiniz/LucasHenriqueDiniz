@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="415" height="90" viewBox="0 0 415 90">
+<style>
+  .t { font: 600 13px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #e6edf3 }
+  .s { font: 400 11px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8b949e }
+  .m { font: 400 14px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #3fb950 }
+  
+</style>
+<rect x="0.5" y="0.5" width="414" height="89" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="14" y="22" class="t">12 · &lt;a&gt; dentro do SVG (2 links numa imagem)</text>
+
+<a href="https://weebprofile-dashboard.pages.dev" target="_top"><rect x="14" y="36" width="185" height="40" rx="6" fill="#1f6feb"/><text x="106" y="61" class="t" text-anchor="middle">weebprofile</text></a>
+<a href="https://heartopia.guide" target="_top"><rect x="216" y="36" width="185" height="40" rx="6" fill="#8957e5"/><text x="308" y="61" class="t" text-anchor="middle">heartopia.guide</text></a>
+</svg>

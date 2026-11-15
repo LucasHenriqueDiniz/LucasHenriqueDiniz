@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="415" height="110" viewBox="0 0 415 110">
+<style>
+  .t { font: 600 13px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #e6edf3 }
+  .s { font: 400 11px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8b949e }
+  .m { font: 400 14px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #3fb950 }
+  
+  .fo { font: 12px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; color: #c9d1d9; display: flex; flex-direction: column; gap: 4px }
+  .grad { font-weight: 700; font-size: 15px; background: linear-gradient(90deg,#f78166,#d2a8ff,#58a6ff,#f78166); background-size: 300% 100%; -webkit-background-clip: text; background-clip: text; color: transparent; animation: gr 3s linear infinite }
+  @keyframes gr { to { background-position: 300% 0 } }
+  .wrap { margin: 0; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden }
+</style>
+<rect x="0.5" y="0.5" width="414" height="109" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="14" y="22" class="t">08 · foreignObject (HTML/CSS dentro do SVG)</text>
+
+<foreignObject x="14" y="34" width="387" height="66">
+  <div xmlns="http://www.w3.org/1999/xhtml" class="fo">
+    <span class="grad">Texto com gradiente animado</span>
+    <p class="wrap">Este parágrafo quebra linha sozinho, coisa que &lt;text&gt; do SVG não faz — útil para descrições de tamanho variável nos plugins, sem calcular a largura de cada palavra na mão.</p>
+  </div>
+</foreignObject>
+</svg>
