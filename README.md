@@ -79,6 +79,30 @@ Snippets as the dashboard now copies them, pointing at two real half cards.
   <img align="top" width="50%" alt="GitHub Stats" src="https://weebprofile-dashboard.pages.dev/svg/ea02df1e-d680-4150-9d58-0c8324850fea.svg" />
 </p>
 
+## Auto theme (light/dark)
+
+One SVG with both palettes: the light one by default, the dark one inside `@media (prefers-color-scheme: dark)`. It should follow GitHub's theme, not the OS.
+
+**5a.** Terminal, auto, from the repo:
+
+<p id="lab-5a"><img src="lab/14-auto-terminal.svg" alt="auto terminal"></p>
+
+**5b.** The same file through camo (how WeebProfile's cards are served):
+
+<p id="lab-5b"><img src="https://cdn.jsdelivr.net/gh/LucasHenriqueDiniz/LucasHenriqueDiniz@main/lab/14-auto-terminal.svg" alt="auto terminal via camo"></p>
+
+**5c.** Terminal dracula, auto, through camo:
+
+<p id="lab-5c"><img src="https://cdn.jsdelivr.net/gh/LucasHenriqueDiniz/LucasHenriqueDiniz@main/lab/14-auto-terminal-dracula.svg" alt="auto dracula via camo"></p>
+
+**5d.** Default style, purple, auto, through camo (transparent card: text and accent change):
+
+<p id="lab-5d"><img src="https://cdn.jsdelivr.net/gh/LucasHenriqueDiniz/LucasHenriqueDiniz@main/lab/14-auto-default-purple.svg" alt="auto default purple via camo"></p>
+
+**5e.** Control, terminal without auto (always dark):
+
+<p id="lab-5e"><img src="https://cdn.jsdelivr.net/gh/LucasHenriqueDiniz/LucasHenriqueDiniz@main/lab/14-fixed-terminal.svg" alt="fixed terminal via camo"></p>
+
 ---
 
 <p align="center">
