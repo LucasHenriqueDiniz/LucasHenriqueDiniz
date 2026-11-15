@@ -103,6 +103,13 @@ One SVG with both palettes: the light one by default, the dark one inside `@medi
 
 <p id="lab-5e"><img src="https://cdn.jsdelivr.net/gh/LucasHenriqueDiniz/LucasHenriqueDiniz@main/lab/14-fixed-terminal.svg" alt="fixed terminal via camo"></p>
 
+**5f.** Fallback with two URLs: `<picture>` with a light-only and a dark-only file, through camo:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LucasHenriqueDiniz/LucasHenriqueDiniz@main/lab/14-only-dark-terminal.svg">
+  <img src="https://cdn.jsdelivr.net/gh/LucasHenriqueDiniz/LucasHenriqueDiniz@main/lab/14-only-light-terminal.svg" alt="picture fallback via camo">
+</picture>
+
 
 ## Animations (WeebProfile option)
 
