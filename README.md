@@ -72,6 +72,13 @@ Snippets as the dashboard now copies them, pointing at two real half cards.
 
 <p align="center"><img align="top" alt="MyAnimeList Stats" src="https://weebprofile-dashboard.pages.dev/svg/c69bcae6-e43f-4eea-8e6f-77e82c80553f.svg" /><img align="top" alt="GitHub Stats" src="https://weebprofile-dashboard.pages.dev/svg/ea02df1e-d680-4150-9d58-0c8324850fea.svg" /></p>
 
+**4f.** Baseline, two halves at `width="50%"` with a line break between the tags:
+
+<p align="center">
+  <img align="top" width="50%" alt="MyAnimeList Stats" src="https://weebprofile-dashboard.pages.dev/svg/c69bcae6-e43f-4eea-8e6f-77e82c80553f.svg" />
+  <img align="top" width="50%" alt="GitHub Stats" src="https://weebprofile-dashboard.pages.dev/svg/ea02df1e-d680-4150-9d58-0c8324850fea.svg" />
+</p>
+
 ---
 
 <p align="center">
