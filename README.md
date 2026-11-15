@@ -103,6 +103,23 @@ One SVG with both palettes: the light one by default, the dark one inside `@medi
 
 <p id="lab-5e"><img src="https://cdn.jsdelivr.net/gh/LucasHenriqueDiniz/LucasHenriqueDiniz@main/lab/14-fixed-terminal.svg" alt="fixed terminal via camo"></p>
 
+
+## Animations (WeebProfile option)
+
+Real cards from the WeebProfile generator with `animations: true` (GitHub plugin, live data). They play once when the image loads and are still within 2 seconds; with reduced motion they do not move.
+
+**6a.** Terminal, relative path:
+
+<p id="lab-6a"><img src="lab/15-anim-terminal.svg" alt="animated terminal card"></p>
+
+**6b.** Terminal, through camo:
+
+<p id="lab-6b"><img src="https://cdn.jsdelivr.net/gh/LucasHenriqueDiniz/LucasHenriqueDiniz@main/lab/15-anim-terminal.svg" alt="animated terminal card via camo"></p>
+
+**6c.** Default style, through camo:
+
+<p id="lab-6c"><img src="https://cdn.jsdelivr.net/gh/LucasHenriqueDiniz/LucasHenriqueDiniz@main/lab/15-anim-default.svg" alt="animated default card via camo"></p>
+
 ---
 
 <p align="center">
