@@ -101,11 +101,11 @@ One SVG with both palettes: the light one by default, the dark one inside `@medi
 
 **5b.** The same file through camo (how WeebProfile's cards are served):
 
-<p id="lab-5b"><img src="https://cdn.jsdelivr.net/gh/LucasHenriqueDiniz/LucasHenriqueDiniz@main/lab/14-auto-terminal.svg" alt="auto terminal via camo"></p>
+<p id="lab-5b"><img src="https://cdn.jsdelivr.net/gh/LucasHenriqueDiniz/LucasHenriqueDiniz@6c985ca00751d05fb617e3ddac03833b39ed3749/lab/14-auto-terminal.svg" alt="auto terminal via camo"></p>
 
 **5c.** Terminal dracula, auto, through camo:
 
-<p id="lab-5c"><img src="https://cdn.jsdelivr.net/gh/LucasHenriqueDiniz/LucasHenriqueDiniz@main/lab/14-auto-terminal-dracula.svg" alt="auto dracula via camo"></p>
+<p id="lab-5c"><img src="https://cdn.jsdelivr.net/gh/LucasHenriqueDiniz/LucasHenriqueDiniz@6c985ca00751d05fb617e3ddac03833b39ed3749/lab/14-auto-terminal-dracula.svg" alt="auto dracula via camo"></p>
 
 **5d.** Default style, purple, auto, through camo (transparent card: text and accent change):
 
@@ -113,13 +113,13 @@ One SVG with both palettes: the light one by default, the dark one inside `@medi
 
 **5e.** Control, terminal without auto (always dark):
 
-<p id="lab-5e"><img src="https://cdn.jsdelivr.net/gh/LucasHenriqueDiniz/LucasHenriqueDiniz@main/lab/14-fixed-terminal.svg" alt="fixed terminal via camo"></p>
+<p id="lab-5e"><img src="https://cdn.jsdelivr.net/gh/LucasHenriqueDiniz/LucasHenriqueDiniz@6c985ca00751d05fb617e3ddac03833b39ed3749/lab/14-fixed-terminal.svg" alt="fixed terminal via camo"></p>
 
 **5f.** Fallback with two URLs: `<picture>` with a light-only and a dark-only file, through camo:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LucasHenriqueDiniz/LucasHenriqueDiniz@main/lab/14-only-dark-terminal.svg">
-  <img src="https://cdn.jsdelivr.net/gh/LucasHenriqueDiniz/LucasHenriqueDiniz@main/lab/14-only-light-terminal.svg" alt="picture fallback via camo">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LucasHenriqueDiniz/LucasHenriqueDiniz@6c985ca00751d05fb617e3ddac03833b39ed3749/lab/14-only-dark-terminal.svg">
+  <img src="https://cdn.jsdelivr.net/gh/LucasHenriqueDiniz/LucasHenriqueDiniz@6c985ca00751d05fb617e3ddac03833b39ed3749/lab/14-only-light-terminal.svg" alt="picture fallback via camo">
 </picture>
 
 
