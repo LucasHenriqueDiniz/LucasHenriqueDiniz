@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="assets/header.svg" width="830" alt="lucas@brasil, neofetch: Lucas, from Brazil, works at Appmax. Stack: TypeScript, React and Cloudflare; also Python, Rust, Go and Tauri. Building WeebProfile and jikan-edge. Off-hours: anime, manga and games." />
+  <img src="https://weebprofile-dashboard.pages.dev/svg/240f8267-b513-4a0a-aa7c-be531906edbc.svg" width="830" alt="lucas@brasil, neofetch: Lucas, from Brazil, works at Appmax. Stack: TypeScript, React and Cloudflare; also Python, Rust, Go and Tauri. Building WeebProfile and jikan-edge. Off-hours: anime, manga and games." />
 </p>
 
-<p align="center">
-  <a href="https://lucashdo.com"><img src="assets/link-site.svg" height="36" alt="lucashdo.com" /></a>
-  <a href="https://www.linkedin.com/in/lucas-diniz-ostroski/"><img src="assets/link-linkedin.svg" height="36" alt="LinkedIn" /></a>
-  <a href="mailto:lucashdo@protonmail.com"><img src="assets/link-email.svg" height="36" alt="Email" /></a>
-</p>
+<p align="center"><a href="https://lucashdo.com/"><img alt="lucashdo.com" src="https://weebprofile-dashboard.pages.dev/svg/1db8697c-1464-4d89-a17e-a56f8442291f/0.svg" /></a> <a href="https://www.linkedin.com/in/lucas-diniz-ostroski/"><img alt="LinkedIn" src="https://weebprofile-dashboard.pages.dev/svg/1db8697c-1464-4d89-a17e-a56f8442291f/1.svg" /></a> <a href="mailto:lucashdo@protonmail.com"><img alt="Email" src="https://weebprofile-dashboard.pages.dev/svg/1db8697c-1464-4d89-a17e-a56f8442291f/2.svg" /></a></p>
 
 ## 🛠️ Things I build
 
