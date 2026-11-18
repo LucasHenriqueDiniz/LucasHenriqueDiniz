@@ -10,8 +10,6 @@
 
 ## 🛠️ Things I build
 
-<a href="https://github.com/LucasHenriqueDiniz/WeebProfile"><img src="https://weebprofile-dashboard.pages.dev/svg/0e938f63-b8d9-4487-97fc-a65a2f396652.svg" width="100%" alt="WeebProfile: code, anime, music and gaming stats for your GitHub profile README" /></a>
-
 <p align="center">
   <a href="https://weebprofile-dashboard.pages.dev/"><img align="top" width="33%" alt="WeebProfile" src="https://weebprofile-dashboard.pages.dev/svg/7a692d6c-90e3-4b71-b10e-83963cb6b8c7/0.svg" /></a
   ><a href="https://jikan.lucashdo.com/"><img align="top" width="33%" alt="jikan-edge" src="https://weebprofile-dashboard.pages.dev/svg/7a692d6c-90e3-4b71-b10e-83963cb6b8c7/1.svg" /></a
@@ -21,6 +19,9 @@
   <a href="https://calculebrasil.com/"><img align="top" width="33%" alt="Calcule Brasil" src="https://weebprofile-dashboard.pages.dev/svg/7a692d6c-90e3-4b71-b10e-83963cb6b8c7/3.svg" /></a
   ><a href="https://dropcut.pages.dev/"><img align="top" width="33%" alt="DropCut" src="https://weebprofile-dashboard.pages.dev/svg/7a692d6c-90e3-4b71-b10e-83963cb6b8c7/4.svg" /></a
   ><a href="https://w-xp-online.web.app/"><img align="top" width="33%" alt="Windows XP Online" src="https://weebprofile-dashboard.pages.dev/svg/7a692d6c-90e3-4b71-b10e-83963cb6b8c7/5.svg" /></a>
+</p>
+<p align="center">
+  <a href="https://heartopia.guide/"><img align="top" width="33%" alt="Heartopia.guide" src="https://weebprofile-dashboard.pages.dev/svg/7a692d6c-90e3-4b71-b10e-83963cb6b8c7/6.svg" /></a>
 </p>
 
 ## 📊 Stats
