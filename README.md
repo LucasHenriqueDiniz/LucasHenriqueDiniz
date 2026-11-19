@@ -22,9 +22,9 @@
 
 <p align="center"><img width="100%" alt="GitHub contributions this year" src="https://weebprofile-dashboard.pages.dev/svg/70a3819b-cae5-49d2-94ea-d3214dc90473.svg" /></p>
 
-<p align="center"><img align="top" width="50%" alt="GitHub profile and languages" src="https://weebprofile-dashboard.pages.dev/svg/e0233116-da59-4564-9bae-f28a27748bcc.svg" /><img align="top" width="50%" alt="Anime and manga statistics and favorite anime" src="https://weebprofile-dashboard.pages.dev/svg/7cf790c3-a048-471f-89af-57a1328fd9af.svg" /></p>
+<p align="center"><img align="top" width="50%" alt="Most used languages on GitHub" src="https://weebprofile-dashboard.pages.dev/svg/e0233116-da59-4564-9bae-f28a27748bcc.svg" /><img align="top" width="50%" alt="Anime and manga statistics and favorite anime" src="https://weebprofile-dashboard.pages.dev/svg/7cf790c3-a048-471f-89af-57a1328fd9af.svg" /></p>
 
-<p align="center"><img width="100%" alt="Code habits: commits by hour and weekday" src="https://weebprofile-dashboard.pages.dev/svg/63aa5483-13c6-4da6-9d33-d02609c3bf8a.svg" /></p>
+<p align="center"><img width="100%" alt="Lines of code added and deleted, per week and per repository" src="https://weebprofile-dashboard.pages.dev/svg/63aa5483-13c6-4da6-9d33-d02609c3bf8a.svg" /></p>
 
 <p align="center"><img align="top" width="50%" alt="Steam statistics and most played games" src="https://weebprofile-dashboard.pages.dev/svg/9e41478b-07a5-44a6-a9aa-91f8e3f5a7b1.svg" /><img align="top" width="50%" alt="World of Warcraft Forever: Pequeno Ibuprofeno" src="https://weebprofile-dashboard.pages.dev/svg/b89a7560-52e1-44aa-b1a0-51573c57cacd.svg" /></p>
 
