@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://weebprofile-dashboard.pages.dev/svg/240f8267-b513-4a0a-aa7c-be531906edbc.svg" width="830" alt="lucas@brasil, neofetch: Lucas, from Brazil, works at Appmax. Stack: TypeScript, React and Cloudflare; also Python, Rust, Go and Tauri. Building WeebProfile and jikan-edge. Off-hours: anime, manga and games." />
-</p>
-
 <p align="center"><a href="https://lucashdo.com/"><img alt="lucashdo.com" src="https://weebprofile-dashboard.pages.dev/svg/1db8697c-1464-4d89-a17e-a56f8442291f/0.svg" /></a> <a href="https://www.linkedin.com/in/lucas-diniz-ostroski/"><img alt="LinkedIn" src="https://weebprofile-dashboard.pages.dev/svg/1db8697c-1464-4d89-a17e-a56f8442291f/1.svg" /></a> <a href="mailto:lucashdo@protonmail.com"><img alt="Email" src="https://weebprofile-dashboard.pages.dev/svg/1db8697c-1464-4d89-a17e-a56f8442291f/2.svg" /></a></p>
 
 ## 🛠️ Things I build
@@ -17,17 +13,19 @@
   ><a href="https://w-xp-online.web.app/"><img align="top" width="33%" alt="Windows XP Online" src="https://weebprofile-dashboard.pages.dev/svg/7a692d6c-90e3-4b71-b10e-83963cb6b8c7/5.svg" /></a>
 </p>
 <p align="center">
-  <a href="https://heartopia.guide/"><img align="top" width="33%" alt="Heartopia.guide" src="https://weebprofile-dashboard.pages.dev/svg/7a692d6c-90e3-4b71-b10e-83963cb6b8c7/6.svg" /></a>
+  <a href="https://heartopia.guide/"><img align="top" width="33%" alt="Heartopia.guide" src="https://weebprofile-dashboard.pages.dev/svg/7a692d6c-90e3-4b71-b10e-83963cb6b8c7/6.svg" /></a
+  ><a href="https://github.com/LucasHenriqueDiniz/adsense-site-auditor"><img align="top" width="33%" alt="adsense-site-auditor" src="https://weebprofile-dashboard.pages.dev/svg/7a692d6c-90e3-4b71-b10e-83963cb6b8c7/7.svg" /></a
+  ><a href="https://lucashdo.com/"><img align="top" width="33%" alt="lucashdo.com" src="https://weebprofile-dashboard.pages.dev/svg/7a692d6c-90e3-4b71-b10e-83963cb6b8c7/8.svg" /></a>
 </p>
 
 ## 📊 Stats
 
 <p align="center"><img width="100%" alt="GitHub contributions this year" src="https://weebprofile-dashboard.pages.dev/svg/70a3819b-cae5-49d2-94ea-d3214dc90473.svg" /></p>
 
-<p align="center"><img align="top" width="50%" alt="GitHub profile and languages" src="https://weebprofile-dashboard.pages.dev/svg/e0233116-da59-4564-9bae-f28a27748bcc.svg" /><img align="top" width="50%" alt="Anime and manga statistics" src="https://weebprofile-dashboard.pages.dev/svg/7cf790c3-a048-471f-89af-57a1328fd9af.svg" /></p>
+<p align="center"><img align="top" width="50%" alt="GitHub profile and languages" src="https://weebprofile-dashboard.pages.dev/svg/e0233116-da59-4564-9bae-f28a27748bcc.svg" /><img align="top" width="50%" alt="Anime and manga statistics and favorite anime" src="https://weebprofile-dashboard.pages.dev/svg/7cf790c3-a048-471f-89af-57a1328fd9af.svg" /></p>
 
-<p align="center"><img align="top" width="50%" alt="Steam statistics and most played games" src="https://weebprofile-dashboard.pages.dev/svg/9e41478b-07a5-44a6-a9aa-91f8e3f5a7b1.svg" /><img align="top" width="50%" alt="Favorite anime and characters" src="https://weebprofile-dashboard.pages.dev/svg/65573c63-6a57-46e1-a1c8-8f777081a7ac.svg" /></p>
+<p align="center"><img width="100%" alt="Code habits: commits by hour and weekday" src="https://weebprofile-dashboard.pages.dev/svg/63aa5483-13c6-4da6-9d33-d02609c3bf8a.svg" /></p>
+
+<p align="center"><img align="top" width="50%" alt="Steam statistics and most played games" src="https://weebprofile-dashboard.pages.dev/svg/9e41478b-07a5-44a6-a9aa-91f8e3f5a7b1.svg" /><img align="top" width="50%" alt="World of Warcraft Forever: Pequeno Ibuprofeno" src="https://weebprofile-dashboard.pages.dev/svg/b89a7560-52e1-44aa-b1a0-51573c57cacd.svg" /></p>
 
 <p align="center"><sub>Every card here is made with <a href="https://github.com/LucasHenriqueDiniz/WeebProfile">WeebProfile</a> and refreshed every day.</sub></p>
-
-<!-- The SVG lab that was here is in the history (up to 8d59949); its files stay in lab/. -->

@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="415" height="90" viewBox="0 0 415 90">
-<style>.t { font: 600 14px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #e6edf3 } .s { font: 400 11px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8b949e }</style>
-<path d="M415 0.5 H8.5 A8 8 0 0 0 0.5 8.5 V81.5 A8 8 0 0 0 8.5 89.5 H415" fill="#161b22" stroke="#30363d"/>
-
-<rect x="16" y="22" width="46" height="46" rx="8" fill="#1f6feb"/>
-<text x="76" y="42" class="t">WeebProfile</text><text x="76" y="60" class="s">weebprofile-dashboard.pages.dev</text>
-</svg>

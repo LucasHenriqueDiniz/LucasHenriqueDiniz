@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="415" height="90" viewBox="0 0 415 90">
-<style>.t { font: 600 14px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #e6edf3 } .s { font: 400 11px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8b949e }</style>
-<path d="M0 0.5 H406.5 A8 8 0 0 1 414.5 8.5 V81.5 A8 8 0 0 1 406.5 89.5 H0" fill="#161b22" stroke="#30363d"/>
-<line x1="0" y1="14" x2="0" y2="76" stroke="#30363d"/>
-<rect x="14" y="22" width="46" height="46" rx="8" fill="#8957e5"/>
-<text x="74" y="42" class="t">Heartopia Guide</text><text x="74" y="60" class="s">heartopia.guide</text>
-</svg>
